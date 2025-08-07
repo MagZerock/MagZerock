@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello world! I'm David
 
-<!--
-**MagZerock/MagZerock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a student at Universidad de las Fuerzas Armadas ESPE  
+💻 I love programming, AI, and building apps with Shiny and MATLAB  
+🌱 Currently learning GitHub Copilot and contributing to open source  
+📫 Reach me at: david@email.com
 
-Here are some ideas to get you started:
+## 🚀 Technologies I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- R + Shiny
+- C++
+- MATLAB
+- Python
+
+## 📈 GitHub Stats
+
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagZerock&show_icons=true)
+
